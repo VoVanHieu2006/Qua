@@ -64,7 +64,7 @@ SURPRISE_MESSAGES = [
     {
         "title": "🎄 Hi hi!",
         "message": "Không phải con nghé 🐮⛔",
-        "emoji": "🦗",
+        "emoji": "🐄",
         "color": "#ff7675"
     },
     {
